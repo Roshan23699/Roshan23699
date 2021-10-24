@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about android
+<!-- - 💬 Ask me about android -->
 - 📫 Reach me at bangarrp18.comp@coep.ac.in
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns:  -->
